@@ -7,8 +7,8 @@ Eager for new experiences and learning.
   
 <div>
   <a href="https://github.com/davicotting">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davicotting&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicotting&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrolucasfcampos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasfcampos&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 </div>
 
