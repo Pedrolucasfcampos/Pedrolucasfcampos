@@ -3,7 +3,6 @@
 ###
 
 <p align="left">Currently studying Systems Analysis and Development at Unifor.<br>Eager for new experiences and learning.</p>
-![snake gif](https://github.com/Pedrolucasfcampos/Pedrolucasfcampos/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
