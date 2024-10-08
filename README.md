@@ -1,9 +1,9 @@
 <h2 align="left">Hi, i'm Pedro Lucas!</h2>
 
-![snake gif](https://github.com/Pedrolucasfcampos/Pedrolucasfcampos/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <p align="left">Currently studying Systems Analysis and Development at Unifor.<br>Eager for new experiences and learning.</p>
+![snake gif](https://github.com/Pedrolucasfcampos/Pedrolucasfcampos/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
