@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently studying Systems Analysis and Development at Unifor.<br>Eager for new experiences and learning.</p>
+<p align="left">Currently studying Data Science at Unifor.<br>Eager for new experiences and learning.</p>
 
 ###
 
